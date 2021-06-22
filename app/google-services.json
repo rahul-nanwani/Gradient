@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048629143408",
+    "firebase_url": "https://gradeient-droideloper.firebaseio.com",
+    "project_id": "gradeient-droideloper",
+    "storage_bucket": "gradeient-droideloper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048629143408:android:8a577271a84e92c1",
+        "android_client_info": {
+          "package_name": "com.droideloper.gradeient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048629143408-716ud3ggj0eipesn87dpkst9cr4hrmp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfExAR0ymtOELvOE8i52S4OaVlTbBmHV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048629143408-716ud3ggj0eipesn87dpkst9cr4hrmp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
